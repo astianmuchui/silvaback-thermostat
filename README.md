@@ -11,6 +11,7 @@ SilvaBack Digital Thermostat
 1. ESP-IDF
 2. MQTT
 3. PlatformIO
+4. KICAD - preferably
 
 ## Hardware
 1. ESP32 DOIT DEVKIT
@@ -19,7 +20,6 @@ SilvaBack Digital Thermostat
 4. Rotary encoder
 5. SSD1306 OLED screen
 6. Battery powered - may change
-7. KICAD - preferably
 
 # Block diagram
 ![Block diagram](HomemadeThermostat.jpg)
